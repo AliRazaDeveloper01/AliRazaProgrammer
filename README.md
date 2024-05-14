@@ -14,9 +14,13 @@
 
 ⚡ Fun fact: 
           ⚡ I love playing chess and figuring out clever moves to win.
+          
           ⚡ I'm really good at PUBG.
+          
           ⚡ I know how to use virtual machines really well, especially a type called hypervisor Type 2
+          
           ⚡ I enjoy reading a wide variety of books, especially bussiness and technology books.
+          
           ⚡ When I'm not gaming or reading, I like spending time outdoors, whether it's walking or hanging out with friends.
 
 <!---
