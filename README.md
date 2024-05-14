@@ -1,4 +1,4 @@
-- Hi there, I'm Ali Raza! 👋
+# Hi there, I'm Ali Raza! 👋
 
 🔭 I’m currently a student studying computer scince and exploring modern computer technologies.
 
